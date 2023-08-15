@@ -1,0 +1,35 @@
+.nav{
+    display: inline;
+}
+li{
+    color: rgb(57, 226, 172);
+}
+a{
+    color: rgb(238, 129, 233);
+}
+footer{
+    color: blue;
+}
+body{
+    background-color: rgb(68, 65, 85);
+}
+main{
+    display: flex;
+    margin-left: 50px;
+}
+tr{
+    color: rgb(222, 153, 130);
+}
+form{
+    color: rgb(226, 226, 247);
+}
+iframe{
+    display: flex; 
+    margin-left: 50px;
+    margin-top: 10px;
+}
+h1{
+    display: flex;
+    margin-left: 200px;
+    color: lemonchiffon;
+}
